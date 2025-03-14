@@ -31,5 +31,16 @@ The main objective of this project is to:
   
 - User numbers of ChatGPTC: I will collect user growth data from academic papers, industry reports, and publicly available datasets. These papers will provide reliable data on how ChatGPT's user base has expanded over time.
 
+# EDA (Exploratory Data Analysis):
+
+
+- Data Cleaning and Preprocessing: Ensure the datasets are complete and free of inconsistencies. This includes handling missing values, correcting outliers, and formatting the data for analysis.
+- Descriptive Statistics: Calculate basic statistics such as mean, median, standard deviation, and range to summarize the data and understand its distribution.
+
+- Visualizations: Create visualizations such as time series plots, histograms, and scatter plots to visually explore the trends and relationships between ChatGPT user numbers and Nvidia stock prices.
+
+- Correlation Analysis: Investigate the correlation between the two datasets to identify any initial relationships and trends between the rise of ChatGPT users and Nvidia’s stock performance.
+
+
 
 
